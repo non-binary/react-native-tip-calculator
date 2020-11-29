@@ -1,6 +1,6 @@
 # tip-calculator
 
-Tip calculator written in React Native using Expo and TypeScript.
+Tip calculator demo written in React Native using Expo and TypeScript.
 
 * https://github.com/non-binary/tip-calculator/blob/main/App.tsx
 * https://github.com/non-binary/tip-calculator/blob/main/components/Calculator.tsx
