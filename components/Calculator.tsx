@@ -1,5 +1,5 @@
 import React from "react";
-import { View, Text } from "react-native";
+import { View } from "react-native";
 import LargeTextInput from "./LargeTextInput";
 import ResultText from "./ResultText";
 
@@ -24,7 +24,7 @@ class Calculator extends React.Component<CalculatorState> {
       <View>
         <LargeTextInput
           placeholder="25"
-          footnote="Bill Total"
+          footnote="Total"
           onChangeText={this.handleTotalChangeText}
         />
         <LargeTextInput
